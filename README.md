@@ -1,4 +1,4 @@
-# ChatGPTAccount
+# ChatGPT Account
 ChatGPT账号 API Key
 
 
